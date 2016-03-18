@@ -20,15 +20,24 @@ Laura Weiner
 Matthew Starr
 Richard Song
 
+Tessel repo:
+https://github.com/tessel/t1-docs
 
-npm install servo-pca9685
+
 Servo library:
+npm install servo-pca9685
 https://github.com/tessel/servo-pca9685
 
-npm install accel-mma84
 Accelerometer library:
+npm install accel-mma84
 https://github.com/tessel/accel-mma84
 
-npm install ambient-attx4
 Ambient sensor library:
+npm install ambient-attx4
 https://github.com/tessel/ambient-attx4
+
+Camera library:
+npm install camera-vc0706
+https://github.com/tessel/camera-vc0706
+
+

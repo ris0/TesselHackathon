@@ -9,6 +9,7 @@
     "accel-mma84": "^0.2.4",
     "ambient-attx4": "^0.2.8",
     "camera-vc0706": "^0.1.8",
+    "nodejs-websocket": "^1.5.0",
     "servo-pca9685": "^0.1.3",
     "wifi-cc3000": "0.0.1"
   }

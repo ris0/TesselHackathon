@@ -1,3 +1,28 @@
+I wrote this README.MD file to help my team members by streamlining the learning process with Tessel and its modules.
+Our group won the most creative award at the TesselHackathon, hosted by Fullstack Academy.
+We built a version of labyrinth with an accelerometer, servo modules, and some cardboard. 
+
+Hardware:
+Tessel
+
+Modules:
+Camera
+Servo
+Servo Motor
+Accelerometer
+Ambient Sensor
+
+Team manager:
+Sam Ballan
+
+Team members:
+Dane Tomseth
+Haily Keen
+Laura Weiner
+Matthew Starr
+Richard Song
+
+
 Install NVM:
 1st, make certain your bash profile is setup:
 touch ~/.bash_profile
@@ -55,26 +80,6 @@ When a host computer deploys code to Tessel (either via the run or push command)
 If you're having trouble figuring out which files are being sent to Tessel, use the tessel pack command.
 
 Remember to npm install to get all of the node_modules listed in the package.json_
-
-Hardware:
-Tessel
-
-Modules:
-Camera
-Servo
-Servo Motor
-Accelerometer
-Ambient Sensor
-
-Team manager:
-Sam Ballan
-
-Team members:
-Dane Tomseth
-Haily Keen
-Laura Weiner
-Matthew Starr
-Richard Song
 
 Tessel repo:
 https://github.com/tessel/t1-docs

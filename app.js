@@ -10,8 +10,8 @@ var servo2 = 2;
 // x [x, y]
 // y 
 
-var x = (xyz[0]/2 + 1)
-var y = (xyz[1]/2 + 1)
+var x = (xyz[0]/2 + 1);
+var y = (xyz[1]/2 + 1);
 
 servo.on('ready', function (x,y) {
   var position1 = accelX;  //  Target position of the servo between 0 (min) and 1 (max).
